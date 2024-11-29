@@ -1,0 +1,29 @@
+---
+title: "Visualisierung und Kolorierung von Lidar-Daten"
+author: "Silvan Hüsler"
+date: "2024-11-29"
+categories: [swisstopo]
+image: "übersicht-region-sempachersee.png"
+lightbox: true
+---
+
+
+
+
+
+![Übersicht Region Sempachersee](übersicht-region-sempachersee.png){group="my-gallery"}
+
+
+
+
+![Schenkon](schenkon.png){group="my-gallery"}
+
+
+
+
+![Sursee](sursee.png){group="my-gallery"}
+
+
+
+
+
