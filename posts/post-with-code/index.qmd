@@ -1,7 +1,7 @@
 ---
 title: "Post With Code"
 author: "Harlow Malloc"
-date: "2024-11-29"
+date: "2024-11-28"
 categories: [news, code, analysis]
 image: "image.jpg"
 ---
@@ -9,5 +9,5 @@ image: "image.jpg"
 This is a post with executable code.
 
 ```{r}
-1 + 1
+99 + 99
 ```

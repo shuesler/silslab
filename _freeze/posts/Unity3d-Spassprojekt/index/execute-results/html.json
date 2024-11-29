@@ -1,0 +1,15 @@
+{
+  "hash": "ca2ae2517ccb52673951eab2f61a3e25",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Unity3d Spassprojekt\"\nauthor: \"Silvan Hüslerc\"\ndate: \"2024-11-29\"\ncategories: [unity3d]\nimage: \"bundeshauskuppel.jpg\"\n---\n\n\n\n\nThis is a post with executable code.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n99 + 99\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 198\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
